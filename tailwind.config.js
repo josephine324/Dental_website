@@ -9,6 +9,7 @@ module.exports = {
         Font: "SofiaPro-Bold",
         newYellow: "#FFEC2D",
         headerblue: "#023D5D",
+        pagecolor: "#EDF3F6",
       }
     },
   },
