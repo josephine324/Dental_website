@@ -10,6 +10,7 @@ module.exports = {
         newYellow: "#FFEC2D",
         headerblue: "#023D5D",
         pagecolor: "#EDF3F6",
+        svgcolor: "#E6EEF2",
       }
     },
   },
